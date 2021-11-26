@@ -4,13 +4,13 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "vistadisp",
+		"name": "vistadisp_nben",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/WinawerLab/vistadisp.git"
+		"url": "https://github.com/noahbenson/vistadisp.git"
 	},
 	{
 		"flavor": "",
